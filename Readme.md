@@ -5,4 +5,4 @@
 ### 3. Online paging algorithms: LRU, FIFO, OPT
 ### 4. RSA algorithms
 ### 5. Knapsack problem (Greedy algorithm)
-### 6. VRP by metaheuristics
+### 6. VRP by metaheuristics (SA)
