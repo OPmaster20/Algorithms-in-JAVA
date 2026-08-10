@@ -6,3 +6,4 @@
 ### 4. RSA algorithms
 ### 5. Knapsack problem (Greedy algorithm)
 ### 6. VRP by metaheuristics (SA)
+### 7. CVRP by metaheuristics (SA)
