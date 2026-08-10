@@ -8,3 +8,4 @@
 ### 6. VRP by metaheuristics (SA)
 ### 7. CVRP by metaheuristics (SA)
 ### 8. CVRP by metaheuristics (LNS - Large Neighborhood Search)
+### 9. PFSP by metaheuristics (Tubu search)
