@@ -9,3 +9,6 @@
 ### 7. CVRP by metaheuristics (SA)
 ### 8. CVRP by metaheuristics (LNS - Large Neighborhood Search)
 ### 9. PFSP by metaheuristics (Tubu search)
+### 10. PFSP by metaheuristics (Genetic Algorithm)
+### 11. PFSP by metaheuristics (Greedy Algorithm)
+### 12. PFSP by metaheuristics (Random Algorithm)
