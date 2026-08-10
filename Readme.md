@@ -1,5 +1,5 @@
 # Discrete mathematical algorithms implemented in JAVA
-## It mainly includes the implementation of six algorithms
+## List:
 ### 1. Algorithm A*
 ### 2. Maximal flow algorithm (Ford-Fulkerson)
 ### 3. Online paging algorithms: LRU, FIFO, OPT
