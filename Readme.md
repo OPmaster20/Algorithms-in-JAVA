@@ -1,4 +1,4 @@
-# Discrete mathematical algorithms implemented in JAVA
+# Algorithms implemented in JAVA
 ## List:
 ### 1. Algorithm A*
 ### 2. Maximal flow algorithm (Ford-Fulkerson)
