@@ -1,4 +1,4 @@
-# Algorithms implemented in JAVA
+# Algorithms implemented in JAVA or python
 ## List:
 ### 1. Algorithm A*
 ### 2. Maximal flow algorithm (Ford-Fulkerson)
@@ -12,3 +12,4 @@
 ### 10. PFSP by metaheuristics (Genetic Algorithm)
 ### 11. PFSP by metaheuristics (Greedy Algorithm)
 ### 12. PFSP by metaheuristics (Random Algorithm)
+### 13. Linear regression [Gradient Descent and the Normal Equation]
